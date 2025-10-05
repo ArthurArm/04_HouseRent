@@ -2252,11 +2252,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+      "projectUniqueName": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
       "projectName": "HouseRentingSystem.Services",
-      "projectPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+      "projectPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
       "packagesPath": "/Users/Arthur/.nuget/packages/",
-      "outputPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/obj/",
+      "outputPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Services/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Arthur/.nuget/NuGet/NuGet.Config"

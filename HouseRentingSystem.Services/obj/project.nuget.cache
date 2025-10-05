@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9RPkSu54fbE=",
+  "dgSpecHash": "kFAF68yY+gY=",
   "success": true,
-  "projectFilePath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+  "projectFilePath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
   "expectedPackageFiles": [
     "/Users/Arthur/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
     "/Users/Arthur/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

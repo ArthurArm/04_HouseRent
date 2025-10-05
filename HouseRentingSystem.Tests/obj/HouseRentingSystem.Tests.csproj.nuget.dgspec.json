@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Tests/HouseRentingSystem.Tests.csproj": {}
+    "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Tests/HouseRentingSystem.Tests.csproj": {}
   },
   "projects": {
-    "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj": {
+    "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+        "projectUniqueName": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
         "projectName": "HouseRentingSystem.Services",
-        "projectPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+        "projectPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
         "packagesPath": "/Users/Arthur/.nuget/packages/",
-        "outputPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/obj/",
+        "outputPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Services/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Arthur/.nuget/NuGet/NuGet.Config"
@@ -98,14 +98,14 @@
         }
       }
     },
-    "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Tests/HouseRentingSystem.Tests.csproj": {
+    "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Tests/HouseRentingSystem.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Tests/HouseRentingSystem.Tests.csproj",
+        "projectUniqueName": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Tests/HouseRentingSystem.Tests.csproj",
         "projectName": "HouseRentingSystem.Tests",
-        "projectPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Tests/HouseRentingSystem.Tests.csproj",
+        "projectPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Tests/HouseRentingSystem.Tests.csproj",
         "packagesPath": "/Users/Arthur/.nuget/packages/",
-        "outputPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Tests/obj/",
+        "outputPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Arthur/.nuget/NuGet/NuGet.Config"
@@ -121,11 +121,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj": {
-                "projectPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj"
+              "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj": {
+                "projectPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj"
               },
-              "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Web/HouseRentingSystem.Web.csproj": {
-                "projectPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Web/HouseRentingSystem.Web.csproj"
+              "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Web/HouseRentingSystem.Web.csproj": {
+                "projectPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Web/HouseRentingSystem.Web.csproj"
               }
             }
           }
@@ -209,14 +209,14 @@
         }
       }
     },
-    "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Web/HouseRentingSystem.Web.csproj": {
+    "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Web/HouseRentingSystem.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Web/HouseRentingSystem.Web.csproj",
+        "projectUniqueName": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Web/HouseRentingSystem.Web.csproj",
         "projectName": "HouseRentingSystem.Web",
-        "projectPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Web/HouseRentingSystem.Web.csproj",
+        "projectPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Web/HouseRentingSystem.Web.csproj",
         "packagesPath": "/Users/Arthur/.nuget/packages/",
-        "outputPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Web/obj/",
+        "outputPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Arthur/.nuget/NuGet/NuGet.Config"
@@ -232,8 +232,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj": {
-                "projectPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj"
+              "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj": {
+                "projectPath": "/Users/Arthur/Documents/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04_HouseRent/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj"
               }
             }
           }
