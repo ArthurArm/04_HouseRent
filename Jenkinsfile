@@ -1,14 +1,9 @@
 pipeline {
-    agent {
-        docker {
-            image 'mcr.microsoft.com/dotnet/sdk:8.0'
-            args '-v /var/run/docker.sock:/var/run/docker.sock'
-        }
-    }
+    agent any
     stages {
         stage("Restore project dependencies") {
             steps{
-                sh 'dotnet restore'
+                 'dotnet restore'
             }
         }
         stage("Build the project") {
