@@ -1,4 +1,4 @@
-pipline {
+pipeline {
     agent any
     stages("Restore project dependencies") {
         stage {
